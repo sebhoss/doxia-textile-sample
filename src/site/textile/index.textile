@@ -1,0 +1,21 @@
+h1. Textile Example Site
+
+p. This content was created with the doxia-textile-module. You can use numeric lists
+
+# with some
+# items
+
+p. and of course also bulleted lists
+
+* like
+* this.
+
+p. You can @inline some code@, but also create a block quote
+
+bc.. public class Textile {
+
+    public static final String MESSAGE = "Textile is awesome!"
+
+}
+
+p. See the "reference documentation":http://www.txstyle.org/ for more details and examples.
