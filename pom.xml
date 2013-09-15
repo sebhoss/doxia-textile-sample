@@ -4,7 +4,7 @@
   <artifactId>doxia-textile-sample</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>pom</packaging>
-  
+
   <build>
     <plugins>
       <plugin>
